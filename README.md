@@ -19,7 +19,7 @@ Here are the steps to get the project working locally for grading.
 
 **1. Clone the repository:**
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/arialp/AdvancedWebProg-Exercise1.git
 cd laravel-exercise1-thesis
 ```
 
