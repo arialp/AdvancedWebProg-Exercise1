@@ -1,4 +1,4 @@
-# Advanced Web Programming - Task 1 (Graduate Theses Parser)
+# Advanced Web Programming - Exercise 1 (Graduate Theses Parser)
 
 This is my submission for Exercise 1, which involves parsing graduate theses from the university website and saving them to a database using Object-Oriented PHP principles within the Laravel framework.
 
